@@ -1,6 +1,7 @@
 # Bruno Duaso
+#### _[Git Repository](link) | brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755 | 06.02.2004_
 ---
-- [Git Repository](repo link)
+
 - [About Me](#about-me)
 - [Education](#education)
 - [Work Experience](#work-experience)
@@ -9,11 +10,13 @@
 - [Language Skills](#language-skills)
 - [More About Me](#more-about-me)
 
+---
 ## About Me
 I am an ambitious student pursuing a Bachelor of Engineering in Electronic and Information Engineering at Imperial College London. With a keen interest in Deep Learning, I have engaged in various internships, projects, and self-learning initiatives to deepen this knowledge and skills in software development, machine learning, and algorithmic trading. 
 
 Outside of academics and professional endeavors, sports are a significant part of my life, as I am currently training for a Marathon, and the capitain of a Futsal team and MVP of the Leage. I have also participaded in various humanitarian initiatives in Spain, the Dominican Republic and Haiti, and I continuously seeking learning through reading and exploring new interests.
 
+---
 ## Education
 
 ### Imperial College London
@@ -26,6 +29,7 @@ Society.
 - **Results:** Achieved an average mark of 9.94/10, with honorific mentions in Physics, Mathematics, Industrial Engineering, and Spanish Literature.
 - **Awards:** Course rank: 1, Certificate of Academic Excellence, English Proficiency Diploma.
 
+---
 ## Work Experience
 
 ### Bird Gard Iberia | London - Madrid
@@ -41,8 +45,8 @@ Society.
 #### _Ambassador | Spring 2024_
 - Elected as a paid Ambassador for Imperial College, working for funding from alumni for the Student Assistance Fund, facilitating scholarships and financial aid to students facing economic challenges.
 
+---
 ## Projects
-
 ### Optiver Trading Academy 
 #### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
 - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
@@ -52,8 +56,8 @@ Society.
 #### _Online Self Learning | Summer 2023_
 - Developed projects including Image Classifiers, Book Recommendation Engines, Health Cost Calculator, and SMS Text Classifier using TensorFlow, Deep, Recurrent, and Convolutional Neural Networks.
 
+---
 ## Certifications
-
 ### Santander Bank | Madrid
 #### _European Scholarship Recipient | Feb 2020 - Jun 2022_
 - Awarded the European Scholarship, sponsored by Santander Bank, as 1 of the 50 most talented students in 
@@ -68,6 +72,7 @@ receiving the scholarship award.
 MLOps, Generative AI, using tools such as: PySpark, AWS, Kubernetes, S3 and Lambda.  
 - Used React Native to implement this knowledge, creating various front and back end native applications.  
 
+---
 ## Language Skills
 - **Languages:** Native Spanish, English (C2), French (C2), German (Beginner).
 - **Programming**:  
@@ -78,6 +83,7 @@ MLOps, Generative AI, using tools such as: PySpark, AWS, Kubernetes, S3 and Lamb
     - **Crypto**: Intermediate level Solidity. 
     - **Web Services**: Front and Back end development with JavaScript, React Native and Firebase. 
 
+---
 ## More About Me
 - **Competitive Sports:** National-level football player, chess competitor, and former basketball player.
 - **Humanitarian Initiatives:** Volunteer in España Rumbo al Sur, promoting leadership, cultural understanding, and involvement in Haiti and the Dominican Republic.
