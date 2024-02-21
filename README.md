@@ -1,5 +1,5 @@
 # Bruno Duaso
-
+---
 - [Git Repository](repo link)
 - [About Me](#about-me)
 - [Education](#education)
