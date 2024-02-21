@@ -1,4 +1,11 @@
-# duasob.github.io
+# Bruno Duaso
+---
 
-## Bruno Duaso
-Este es mi portfolio
+## Education
+
+## Work Experience
+
+## Projects 
+
+##
+
