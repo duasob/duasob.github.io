@@ -47,7 +47,7 @@ Society.
 
 ---
 ## Projects
-### Optiver Trading Academy 
+### [Optiver Trading Academy](https://github.com/duasob/marketMakingAlgo) 
 #### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
 - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
     
