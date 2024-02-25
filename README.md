@@ -59,6 +59,14 @@ Society.
 - Elected as a paid Ambassador for Imperial College, working for funding from alumni for the Student Assistance Fund, facilitating scholarships and financial aid to students facing economic challenges.
 
 ---
+<<<<<<< HEAD
+=======
+## Projects
+### [Optiver Trading Academy](https://github.com/duasob/marketMakingAlgo) 
+#### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
+- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
+    
+>>>>>>> d811f5ccec8d113e402a67818eb0327d88db7409
 
 ## Certifications
 ### Santander Bank | Madrid
