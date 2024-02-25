@@ -1,6 +1,7 @@
 title: Bruno Duaso
 logo: /assets/BrunoImage.png 
-description: Electronic Engineer | Imperial College London
-email: brunoduaso@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Electronic and Information Engineer
+  Imperial College London
 show_downloads: true
 theme: jekyll-theme-minimal
