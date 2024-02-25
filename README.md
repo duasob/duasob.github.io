@@ -1,4 +1,4 @@
-# Bruno Duaso
+# Bruno Duaso Portfolio
 #### _[Git Repository](link) | brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755 | 06.02.2004_
 ---
 
@@ -17,6 +17,19 @@ I am an ambitious student pursuing a Bachelor of Engineering in Electronic and I
 Outside of academics and professional endeavors, sports are a significant part of my life, as I am currently training for a Marathon, and the capitain of a Futsal team and MVP of the Leage. I have also participaded in various humanitarian initiatives in Spain, the Dominican Republic and Haiti, and I continuously seeking learning through reading and exploring new interests.
 
 ---
+
+## Projects
+### Optiver Trading Academy 
+#### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
+- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
+    
+
+### Machine Learning with Python 
+#### _Online Self Learning | Summer 2023_
+- Developed projects including Image Classifiers, Book Recommendation Engines, Health Cost Calculator, and SMS Text Classifier using TensorFlow, Deep, Recurrent, and Convolutional Neural Networks.
+
+---
+
 ## Education
 
 ### Imperial College London
@@ -46,17 +59,7 @@ Society.
 - Elected as a paid Ambassador for Imperial College, working for funding from alumni for the Student Assistance Fund, facilitating scholarships and financial aid to students facing economic challenges.
 
 ---
-## Projects
-### Optiver Trading Academy 
-#### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
-- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
-    
 
-### Machine Learning with Python 
-#### _Online Self Learning | Summer 2023_
-- Developed projects including Image Classifiers, Book Recommendation Engines, Health Cost Calculator, and SMS Text Classifier using TensorFlow, Deep, Recurrent, and Convolutional Neural Networks.
-
----
 ## Certifications
 ### Santander Bank | Madrid
 #### _European Scholarship Recipient | Feb 2020 - Jun 2022_

@@ -1,6 +1,12 @@
 title: Bruno Duaso
-logo: /assets/BrunoImage.png 
-description: Electronic Engineer | Imperial College London
-email: brunoduaso@gmail.com
-show_downloads: true
+
+author:
+  # Biographic information
+  avatar           : "/assets/BrunoImage.png "
+  name             : "Bruno Duaso"
+  bio              : "Electronic Engineer"
+  location         : "London, UK"
+  employer         : "Imperial College London"
+  email            : "brunoduaso@gmail.com" 
+
 theme: jekyll-theme-minimal
