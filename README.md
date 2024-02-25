@@ -1,4 +1,4 @@
-# Bruno Duaso Portfolio
+# Bruno Duaso 
 #### _[Git Repository](link) | brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755 | 06.02.2004_
 ---
 
@@ -21,8 +21,8 @@ Outside of academics and professional endeavors, sports are a significant part o
 ## Projects
 ### Optiver Trading Academy 
 #### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
-- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
-    
+- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.    
+
 
 ### Machine Learning with Python 
 #### _Online Self Learning | Summer 2023_
@@ -58,15 +58,6 @@ Society.
 #### _Ambassador | Spring 2024_
 - Elected as a paid Ambassador for Imperial College, working for funding from alumni for the Student Assistance Fund, facilitating scholarships and financial aid to students facing economic challenges.
 
----
-<<<<<<< HEAD
-=======
-## Projects
-### [Optiver Trading Academy](https://github.com/duasob/marketMakingAlgo) 
-#### _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
-- Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep proficiency in options trading and algorithm development.
-    
->>>>>>> d811f5ccec8d113e402a67818eb0327d88db7409
 
 ## Certifications
 ### Santander Bank | Madrid
