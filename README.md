@@ -1,5 +1,5 @@
 # Bruno Duaso 
-#### _[Git Profile](https://github.com/duasob) | brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755 | 06.02.2004_
+#### _brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755  | 06/02/2004_
 ---
 
 
