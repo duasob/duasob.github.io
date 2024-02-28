@@ -17,7 +17,7 @@
     - Used a Convolutional Neural Network and Computer Vision to identify images. Also, signigicant preprocessing of the data had to be done using Numpy. 
 
 * ### [Health-Cost-Predictor | _Predict Your Health Expenses | Aug 203_ ](https://github.com/duasob/Health-Cost-Predictor/tree/main)
- - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
+    - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
 
 * ### [TensorFlow Text Classifier | _Detects Spam Messages | Aug 2023_ ](https://github.com/duasob/Text-Classifier)
     - Implements Natural Language Processing to detect patterns within spam messages and flag them as unwanted. 
