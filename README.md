@@ -12,25 +12,25 @@ Outside of academics and professional endeavors, sports are a significant part o
 ## My Projects
 
 * ### [Pong Genetic Algorithn](https://github.com/duasob/Pong-Genetic-Algorithm)
-    #### _Training an AI to play Pong in Python | Feb 2024_ 
+   _Training an AI to play Pong in Python | Feb 2024_ 
     - Practical application of a GA using Python and Numpuy, without any other external libraries. 
 
 * ### [Optiver Trading Academy ](https://github.com/duasob/marketMakingAlgo)
-    ####  _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
+    _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
     - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep understading of options trading and algorithm development.    
 
 
 * ### [TensorFlow Image Classifier](https://github.com/duasob/Image-Classifier/tree/main)
-    #### _Identifies images of Cats or Dogs | Sept 2023_
+    _Identifies images of Cats or Dogs | Sept 2023_
 
     -  Used a Convolutional Neural Network and Computer Vision to identify images. Also, signigicant preprocessing of the data had to be done using Numpy. 
 
 * ### [Health-Cost-Predictor  ](https://github.com/duasob/Health-Cost-Predictor/tree/main)
-    #### _Predict Your Health Expenses | Aug 203_
+    _Predict Your Health Expenses | Aug 203_
     - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
 
 * ### [TensorFlow Text Classifier ](https://github.com/duasob/Text-Classifier)
-    #### _Detects Spam Messages | Aug 2023_ 
+    _Detects Spam Messages | Aug 2023_ 
     - Implements Natural Language Processing to detect patterns within spam messages and flag them as unwanted. 
 
 
