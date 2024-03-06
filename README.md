@@ -57,10 +57,14 @@ Society.
 - Interned at an Insurtech Startup focused on developing risk management models to provide customized policies to SMEs.
 - Conducted analysis of call center performances, gaining hands-on experience in the startup ecosystem.
 
+### Project SVAROG - European Space Agency 
+#### *Telecumunications Engineering | 2024* 
+- Student-led project aiming to launch the first civilian probe outside the Solar System by 2028. 
+- Currently launchinhg a Solar Sail Experiment in collaboration with the ESA. Entrusted with the role designing and developing the telecomunications system for real time interaction from the solar sail to ground station.  
+
 ### Imperial College Telethon | London
 #### _Ambassador | Spring 2024_
 - Elected as a paid Ambassador for Imperial College, working for funding from alumni for the Student Assistance Fund, facilitating scholarships and financial aid to students facing economic challenges.
-
 
 ## Certifications
 ### Santander Bank | Madrid
@@ -92,6 +96,6 @@ MLOps, Generative AI, using tools such as: PySpark, AWS, Kubernetes, S3 and Lamb
 ## More About Me
 - **Competitive Sports:** National-level football player, chess competitor, and former basketball player.
 - **Humanitarian Initiatives:** Volunteer in España Rumbo al Sur, promoting leadership, cultural understanding, and involvement in Haiti and the Dominican Republic.
-- **Tutoring:** Working as a Mathematics and English Tutor alongside university studies.
+- **Part Time Work**: Alongside my studies, I work as a maths and english tutor, and at Imperial's College Telethon Campaign. 
 - **Additional Interests:** Rock Climbing, Literature, Marathon running.
 
