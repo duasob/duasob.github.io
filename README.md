@@ -2,36 +2,41 @@
 #### _brunoduaso@gmail.com | [Linkedin](www.linkedin.com/in/bruno-duaso-jimeno-744464262) | +34 66 549 7755  | 06/02/2004_
 ---
 
-
-
-## My Projects
-
-* ### [Pong Genetic Algorithn | _Training an AI to play Pong in Python | Feb 2024_](https://github.com/duasob/Pong-Genetic-Algorithm)
-    - Practical application of a GA using Python and Numpuy, without any other external libraries. 
-
-* ### [Optiver Trading Academy | _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_](https://github.com/duasob/marketMakingAlgo)
-    - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep understading of options trading and algorithm development.    
-
-
-* ### [TensorFlow Image Classifier | _Identifies images of Cats or Dogs | Sept 2023_](https://github.com/duasob/Image-Classifier/tree/main)
-    - Used a Convolutional Neural Network and Computer Vision to identify images. Also, signigicant preprocessing of the data had to be done using Numpy. 
-
-* ### [Health-Cost-Predictor | _Predict Your Health Expenses | Aug 203_ ](https://github.com/duasob/Health-Cost-Predictor/tree/main)
-    - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
-
-* ### [TensorFlow Text Classifier | _Detects Spam Messages | Aug 2023_ ](https://github.com/duasob/Text-Classifier)
-    - Implements Natural Language Processing to detect patterns within spam messages and flag them as unwanted. 
-
-
-
----
-
 ## About Me
 I am an ambitious student pursuing a Bachelor of Engineering in Electronic and Information Engineering at Imperial College London. With a keen interest in Deep Learning, I have engaged in various internships, projects, and self-learning initiatives to deepen this knowledge and skills in software development, machine learning, and algorithmic trading. 
 
 Outside of academics and professional endeavors, sports are a significant part of my life, as I am currently training for a Marathon, and the capitain of a Futsal team and MVP of the Leage. I have also participaded in various humanitarian initiatives in Spain, the Dominican Republic and Haiti, and I continuously seeking learning through reading and exploring new interests.
 
 ---
+
+## My Projects
+
+* ### [Pong Genetic Algorithn](https://github.com/duasob/Pong-Genetic-Algorithm)
+    #### _Training an AI to play Pong in Python | Feb 2024_ 
+    - Practical application of a GA using Python and Numpuy, without any other external libraries. 
+
+* ### [Optiver Trading Academy ](https://github.com/duasob/marketMakingAlgo)
+    ####  _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
+    - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep understading of options trading and algorithm development.    
+
+
+* ### [TensorFlow Image Classifier](https://github.com/duasob/Image-Classifier/tree/main)
+    #### _Identifies images of Cats or Dogs | Sept 2023_
+
+    -  Used a Convolutional Neural Network and Computer Vision to identify images. Also, signigicant preprocessing of the data had to be done using Numpy. 
+
+* ### [Health-Cost-Predictor  ](https://github.com/duasob/Health-Cost-Predictor/tree/main)
+    #### _Predict Your Health Expenses | Aug 203_
+    - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
+
+* ### [TensorFlow Text Classifier ](https://github.com/duasob/Text-Classifier)
+    #### _Detects Spam Messages | Aug 2023_ 
+    - Implements Natural Language Processing to detect patterns within spam messages and flag them as unwanted. 
+
+
+
+---
+
 
 ## Education
 
@@ -40,6 +45,7 @@ Outside of academics and professional endeavors, sports are a significant part o
 - **Relevant coursework:** C++, Python, Computer Science, AWS, Mathematics, Statistics, Signals and Communications, Software Systems, Control Systems, Instruction Architecture and Compilers. 
 - **Activities**: Part of Imperial Formula One Society, on the Simulations Team, and the Imperial Data Science 
 Society. 
+
 ### B.V.M. Irlandesas el Soto
 #### _Baccalaureate in Science and Technologies | Sept 2020 - Jun 2022_
 - **Results:** Achieved an average mark of 9.94/10, with honorific mentions in Physics, Mathematics, Industrial Engineering, and Spanish Literature.
