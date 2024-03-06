@@ -5,7 +5,7 @@
 ## About Me
 I am an ambitious student pursuing a Bachelor of Engineering in Electronic and Information Engineering at Imperial College London. With a keen interest in Deep Learning, I have engaged in various internships, projects, and self-learning initiatives to deepen this knowledge and skills in software development, machine learning, and algorithmic trading. 
 
-Outside of academics and professional endeavors, sports are a significant part of my life, as I am currently training for a Marathon, and the capitain of a Futsal team and MVP of the Leage. I have also participaded in various humanitarian initiatives in Spain, the Dominican Republic and Haiti, and I continuously seeking learning through reading and exploring new interests.
+Outside of academics and professional endeavors, sports are a significant part of my life, as I am currently training for a Marathon, and the captain of a Futsal team and MVP of the League. I have also participated in various humanitarian initiatives in Spain, the Dominican Republic and Haiti, and I am continuously seeking learning through reading and exploring new interests.
 
 ---
 
@@ -13,7 +13,7 @@ Outside of academics and professional endeavors, sports are a significant part o
 
 * ### [Pong Genetic Algorithn](https://github.com/duasob/Pong-Genetic-Algorithm)
    _Training an AI to play Pong in Python | Feb 2024_ 
-    - Practical application of a GA using Python and Numpuy, without any other external libraries. 
+    - Practical application of a GA using Python and NumPy, without any other external libraries. 
 
 * ### [Optiver Trading Academy ](https://github.com/duasob/marketMakingAlgo)
     _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
@@ -26,7 +26,7 @@ Outside of academics and professional endeavors, sports are a significant part o
     -  Used a Convolutional Neural Network and Computer Vision to identify images. Also, signigicant preprocessing of the data had to be done using Numpy. 
 
 * ### [Health-Cost-Predictor  ](https://github.com/duasob/Health-Cost-Predictor/tree/main)
-    _Predict Your Health Expenses | Aug 203_
+    _Predict Your Health Expenses | Aug 2023_
     - I trained 4 different models (Linear Regression, Support Vector Machines, Random Forest and Gradient Boosting) to predict the future medical expenses of a subject given a set of parameters (age, sex, bim, smoker, ...).
 
 * ### [TensorFlow Text Classifier ](https://github.com/duasob/Text-Classifier)
@@ -61,10 +61,10 @@ Society.
 ### CoverWallet | Madrid
 #### _Intern | Summer 2019_
 - Interned at an Insurtech Startup focused on developing risk management models to provide customized policies to SMEs.
-- Conducted analysis of call center performances, gaining hands-on experience in the startup ecosystem.
+- Responsible for analysing call centre performances and utilising data analytics to enhance customer service strategies, leading to an improved policy customization and client satisfaction rates. 
 
 ### Project SVAROG - European Space Agency 
-#### *Telecumunications Engineering | 2024* 
+#### *Telecommunications Engineering | 2024* 
 - Student-led project aiming to launch the first civilian probe outside the Solar System by 2028. 
 - Currently launchinhg a Solar Sail Experiment in collaboration with the ESA. Entrusted with the role designing and developing the telecomunications system for real time interaction from the solar sail to ground station.  
 
