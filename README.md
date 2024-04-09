@@ -10,7 +10,12 @@ Outside of academics and professional endeavors, sports are a significant part o
 ---
 
 ## My Projects
-
+* ### [Nuwe Hackathon - Sound Classifier](https://github.com/duasob/nuwehack-data-AI_SR)
+_Finetuned CLAP model using Transformers | April 2024_
+- Finetuned an existing CLAP model for sound classification as part of the Nuwe Data Science Hackathon 2024. 
+* ### [C to RISC-V Compiler](https://github.com/duasob/Compiler-C-RISCV-)
+_Compiler built in C++ | March 2024_
+- Designed and coded a C to RISC V compiler that handles a very wide range of instructions and cases. 
 * ### [Pong Genetic Algorithn](https://github.com/duasob/Pong-Genetic-Algorithm)
    _Training an AI to play Pong in Python | Feb 2024_ 
     - Practical application of a GA using Python and NumPy, without any other external libraries. 
