@@ -20,6 +20,10 @@ _Compiler built in C++ | March 2024_
    _Training an AI to play Pong in Python | Feb 2024_ 
     - Practical application of a GA using Python and NumPy, without any other external libraries. 
 
+* ### [RISC-V CPU](https://github.com/chinjyanson/Reduced_RISC-V-Team1)
+    _Designed Pipelined CPU in System Verilog_
+    - Desgined Pipelined CPU with hazard detection for RISC-V instructions with System Verilog. 
+
 * ### [Optiver Trading Academy ](https://github.com/duasob/marketMakingAlgo)
     _Advanced Algorithmic Trading | Nov 2023 – Dec 2023_
     - Developed an algorithmic trading model that ranked 3rd in a competition against 100 participants, demonstrating deep understading of options trading and algorithm development.    
