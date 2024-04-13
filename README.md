@@ -21,7 +21,7 @@ _Compiler built in C++ | March 2024_
     - Practical application of a GA using Python and NumPy, without any other external libraries. 
 
 * ### [RISC-V Pipelined CPU ](https://github.com/chinjyanson/Reduced_RISC-V-Team1)
-    _Designed Pipelined CPU in System Verilog_
+    _Designed Pipelined CPU in System Verilog | Dec 2023_
     - Desgined Pipelined CPU with hazard detection for RISC-V instructions with System Verilog. 
 
 * ### [Optiver Trading Academy ](https://github.com/duasob/marketMakingAlgo)
